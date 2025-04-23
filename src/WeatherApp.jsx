@@ -139,7 +139,7 @@ function Wapp() {
 
     useEffect(() => {
         search();
-    }, [search]) ;
+    }, []);
 
     return (
         <>
